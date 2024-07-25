@@ -1,0 +1,37 @@
+# System Administrator
+
+#### Technical Skills: Python, SQL, AWS, Networking
+
+## Education
+- B.Tech., Computer Science | Harare Institute of Technology (_October 2022)
+- Advanced Level., | Sakubva 1 High School (_November 2016)								       		
+- Ordinary Level., | Holy Ghost College (_November 2014)	 			        		
+
+## Work Experience
+**System Support Technician @ HiperMesh Systems (_October 2022 - September 2023)**
+- Maintained inventory records for hardware components such as laptops, desktops, printers and scanners.
+- Implemented securty policies to protect confidential information from unauthorized access.
+- Installed antivirus protection on workstation and server to prvent malicious activity.
+- Configured, tested, Maintained and upgraded Computer Systems to ensure optimal performancein a Windows environment.
+- Conducted regular backups of critical data files on a local server and cloud storage solution.
+- Assisted users remotely by providing guidance on how how to use specific applications or resolve technical problems over the phone or via email commucation.  
+
+**System Integrator Intern @ Zimbabwe Women's Microfinance Bank (_April 2021 - October 2012)**
+- Evaluated third-party applications for compatibility with existing integrated system prior to Implementation.
+- Conducted regular reviews of current system integrations in order to indetify potential area of improvement.
+- Provided training on how to effectively use integrated systems across the departments within the organisation.
+- Tested newly developed features and functionalities before deployment on production environment.
+- Managed user accounts and group policies, folder access and security within Active Directory.
+
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+
+
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+
+
+## Talks & Lectures
+
+
+## Publications
+
